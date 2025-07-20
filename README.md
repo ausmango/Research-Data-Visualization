@@ -1,6 +1,6 @@
 # Research-Data-Visualization
 
-This repository contains Python scripts and CSV datasets for visualizaing survey data om ChatGTPT usage in writing among high school and college students. Intended for a 25 page research paper I completed. Charts are built with matplotlib.
+This repository contains Python scripts and CSV datasets for visualizing survey data on ChatGPT usage in writing among high school and college students. Intended for a 25 page research paper I completed. Charts are built with matplotlib.
 
 
 
